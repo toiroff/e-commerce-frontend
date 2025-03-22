@@ -7,6 +7,8 @@ a {
 h2 {
     font-weight: 1000;
     font-size: 48PX;
+    font-family: "Roboto Flex","Arial", serif;
+
 }
 
 .logo {
@@ -19,6 +21,16 @@ h2 {
     text-decoration: none;
     color: black;
 }
+
+.nav-links {
+    width: 321px;  
+}
+
+.nav-list {
+    list-style-type: none; 
+    justify-content: space-between;  
+}
+
 
 .search-bar {
     color: #F0F0F0;
@@ -94,3 +106,8 @@ hr {
 }
 
  
+
+.footer-links {
+    list-style: none;
+    width: 104px;
+}
