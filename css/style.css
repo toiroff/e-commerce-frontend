@@ -1,0 +1,96 @@
+
+
+a {
+    text-decoration: none;
+}
+
+h2 {
+    font-weight: 1000;
+    font-size: 48PX;
+}
+
+.logo {
+    font-size: 32px;
+     
+}
+
+.nav-links a {
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+}
+
+.search-bar {
+    color: #F0F0F0;
+
+}
+
+.shop-now {
+    font-size: 16px;
+    
+    color: white;
+    background-color: black;
+}
+
+.hero-content {
+    background-color: #F2F0F1;
+
+}
+
+.hero-image {
+    object-fit: cover;
+    object-position: left;
+}
+
+.brands {
+    height: 122px;
+}
+
+.product-name {
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.product-imag {
+    width: 300;
+}
+
+
+.stars {
+    width: 150px;
+    height: 19px;
+}
+
+.price {
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.view-button {
+    width: 218px;
+    height: 52px;
+    color: #000000;
+    font-size: 16px;
+}
+
+
+hr {
+    width: 1240px;
+    height: 0;
+}
+
+.browse-container {
+    width: 1239px;
+    background-color: #F0F0F0;
+}
+
+.browse-title {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+ 
